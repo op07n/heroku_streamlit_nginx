@@ -1,14 +1,14 @@
 [
     {
+        "name": "VorPythonDecoder",
+        "module": "scripts.decoder"
+    },
+    {
         "name": "App1",
         "module": "scripts.app1"
     },
     {
         "name": "App2",
         "module": "scripts.app2"
-    },
-    {
-        "name": "vor-python-decoder",
-        "module": "scripts.decoder"
     }
 ]
