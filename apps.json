@@ -10,5 +10,9 @@
     {
         "name": "App2",
         "module": "scripts.app2"
+    },
+    {
+        "name": "App3",
+        "module": "scripts.app3"
     }
 ]
