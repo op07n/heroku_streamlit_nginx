@@ -258,7 +258,7 @@ def compare_phases(ref_signal, var_signal):
 
     return bearing
 
-def main():
+def run():
 
     sampleFile = st.selectbox(
          "Select sample file:", 
@@ -356,4 +356,4 @@ def main():
 
 if __name__ == "__main__":
 
-    main()
+    run()
