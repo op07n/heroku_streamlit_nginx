@@ -37,8 +37,8 @@ http {
       keepalive_timeout 5;
 
       location / {
-          auth_basic           "closed site";
-          auth_basic_user_file /app/.htpasswd;
+          # auth_basic           "closed site";
+          # auth_basic_user_file /app/.htpasswd;
           proxy_pass http://127.0.0.1:8501/;
       }
 
