@@ -6,5 +6,9 @@
     {
         "name": "App2",
         "module": "scripts.app2"
+    },
+    {
+        "name": " vor-python-decoder",
+        "module": "scripts.decoder"
     }
 ]
