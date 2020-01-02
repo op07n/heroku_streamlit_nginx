@@ -8,7 +8,7 @@
         "module": "scripts.app2"
     },
     {
-        "name": " vor-python-decoder",
+        "name": "vor-python-decoder",
         "module": "scripts.decoder"
     }
 ]
