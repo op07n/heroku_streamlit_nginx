@@ -262,18 +262,18 @@ def run():
 
     sampleFile = st.selectbox(
          "Select sample file:", 
-         ("samples/177deg_long_1.wav",
-         "samples/177deg_short_1.wav",
-         "samples/177deg_short_2.wav",
-         "samples/234deg_long_1.wav",
-         "samples/234deg_long_2.wav",
-         "samples/234deg_short_1.wav",
-         "samples/234deg_short_2.wav",
-         "samples/234deg_short_3.wav",
-         "samples/293deg_long_1.wav",
-         "samples/293deg_long_2.wav",
-         "samples/293deg_short_1.wav",
-         "samples/293deg_short_2.wav")
+         ("/app/scripts/samples/177deg_long_1.wav",
+         "/app/scripts/samples/177deg_short_1.wav",
+         "/app/scripts/samples/177deg_short_2.wav",
+         "/app/scripts/samples/234deg_long_1.wav",
+         "/app/scripts/samples/234deg_long_2.wav",
+         "/app/scripts/samples/234deg_short_1.wav",
+         "/app/scripts/samples/234deg_short_2.wav",
+         "/app/scripts/samples/234deg_short_3.wav",
+         "/app/scripts/samples/293deg_long_1.wav",
+         "/app/scripts/samples/293deg_long_2.wav",
+         "/app/scripts/samples/293deg_short_1.wav",
+         "/app/scripts/samples/293deg_short_2.wav")
     )
     
     # Load input from wav
