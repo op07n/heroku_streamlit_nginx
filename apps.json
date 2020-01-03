@@ -8,6 +8,10 @@
         "module": "scripts.personalfinanceapp"
     },    
     {
+        "name": " Yahooquery",
+        "module": "scripts.yahooquery-streamlit"
+    },     
+    {
         "name": "App1",
         "module": "scripts.app1"
     },
