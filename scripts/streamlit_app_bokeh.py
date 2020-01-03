@@ -7,7 +7,7 @@ using the Bokeh plotting library
 import numpy as np
 import streamlit as st
 from bokeh.plotting import figure
-from user_funcs import mohr_c, c_array, X_Y
+from app.scripts.user_funcs import mohr_c, c_array, X_Y
 
 def run():
     st.title("Mohr's Circle App")
