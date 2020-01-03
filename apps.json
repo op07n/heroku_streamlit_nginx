@@ -4,6 +4,10 @@
         "module": "scripts.decoder"
     },
     {
+        "name": "PersonalFinanceApp",
+        "module": "scripts.personalfinanceapp"
+    },    
+    {
         "name": "App1",
         "module": "scripts.app1"
     },
