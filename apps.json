@@ -10,6 +10,10 @@
     {
         "name": " Yahooquery",
         "module": "scripts.yahooquery-streamlit"
+    },  
+    {
+        "name": " streamlitAppBokeh",
+        "module": "scripts.streamlit_app_bokeh"
     },     
     {
         "name": "App1",
