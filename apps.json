@@ -14,6 +14,10 @@
     {
         "name": " streamlitAppBokeh",
         "module": "scripts.streamlit_app_bokeh"
+    },    
+    {
+        "name": " SessionStateExample",
+        "module": "scripts.session_state_example"
     },     
     {
         "name": "App1",
