@@ -2,7 +2,7 @@
 # From https://discuss.streamlit.io/t/preserving-state-across-sidebar-pages/107
 
 import streamlit as st
-import SessionState
+import scripts.SessionState as SessionState
 
 def run():
     st.sidebar.title("Pages")
