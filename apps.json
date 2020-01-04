@@ -20,6 +20,10 @@
         "module": "scripts.session_state_example"
     },  
     {
+        "name": " csv_explorer_app",
+        "module": "scripts.csv_explorer_app"
+    },      
+    {
         "name": " NlpApp",
         "module": "scripts.nlp_app"
     },    
