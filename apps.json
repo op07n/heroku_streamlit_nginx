@@ -8,25 +8,29 @@
         "module": "scripts.personalfinanceapp"
     },    
     {
-        "name": " Yahooquery",
+        "name": "Yahooquery",
         "module": "scripts.yahooquery-streamlit"
     },  
     {
-        "name": " streamlitAppBokeh",
+        "name": "streamlitAppBokeh",
         "module": "scripts.streamlit_app_bokeh"
     },    
     {
-        "name": " SessionStateExample",
+        "name": "SessionStateExample",
         "module": "scripts.session_state_example"
     },  
     {
-        "name": " csv_explorer_app",
+        "name": "csv_explorer_app",
         "module": "scripts.csv_explorer_app"
     },      
     {
-        "name": " NlpApp",
+        "name": "NlpApp",
         "module": "scripts.nlp_app"
     },    
+    {
+        "name": "uber_pickups_app",
+        "module": "scripts.uber_pickups_app"
+    },
     {
         "name": "App1",
         "module": "scripts.app1"
