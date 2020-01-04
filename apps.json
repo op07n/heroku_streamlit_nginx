@@ -18,7 +18,11 @@
     {
         "name": " SessionStateExample",
         "module": "scripts.session_state_example"
-    },     
+    },  
+    {
+        "name": " NlpApp",
+        "module": "scripts.nlp_app"
+    },    
     {
         "name": "App1",
         "module": "scripts.app1"
