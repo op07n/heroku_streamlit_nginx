@@ -49,3 +49,4 @@ yahooquery==1.0.9
 bokeh==1.4.0
 ttictoc==0.4.1
 spacy==2.2.3
+en-core-web-sm==2.0.0
